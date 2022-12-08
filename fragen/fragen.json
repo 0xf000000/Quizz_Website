@@ -1,0 +1,112 @@
+
+
+{
+    "Themen":[
+        "ComputerLinguistik",
+        "Geschichte",
+        "Informatik"
+    ],
+
+     
+
+    "Geschichte": {
+        
+        "frage":"Wann wurde Deutschland Gegründet?",
+
+        "Frage1": [
+            "1971",
+            "1871",
+            "2004",
+            "1950"
+        ],
+
+        "antwort":"1871"
+        ,
+        "Frage2": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "Frage3": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "Frage4": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ]
+    },
+
+    
+
+    "Informatik": {
+        "frage":"frage",
+
+        "Frage1": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "Frage2": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "Frage3": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "Frage4": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ]
+    },
+
+    
+
+    "Computerlinguistik": {
+
+        "frage":"frage",
+
+        "antworten1": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "frage2":"frage2",
+        "antworten": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "frage3":"frage",
+        "antworten3": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ],
+        "frage4":"frage",
+        "antworten4": [
+            "antwort1",
+            "antwort2",
+            "antwort3",
+            "antwort4"
+        ]
+    }
+
+
+}

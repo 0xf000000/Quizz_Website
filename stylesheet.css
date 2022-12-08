@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+
+section{
+    
+    min-height: 100vh;
+    display:grid;
+    align-content: center;
+    place-items: center;
+
+
+
+
+}
+
+
+#buttons{
+  display:grid;
+    
+    
+}
+
+.hidden{
+    display:none;
+}
